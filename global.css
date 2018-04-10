@@ -4,10 +4,14 @@ body{
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
-img{
+.logo{
 	width: 200px;
 	float: left;
 	padding-right: 10px;
+}
+
+.content{
+	float: center;
 }
 
 ul{
@@ -27,4 +31,17 @@ li{
 	width: 100px;
 	float: right;
 }
+
+#footer{
+	clear: both;
+	text-align: center;
+}
+
+#app{
+	float: right;
+}
+
+
+
+
 
