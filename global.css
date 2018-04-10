@@ -1,0 +1,30 @@
+body{
+	width: 1000px;
+	margin: auto;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+img{
+	width: 200px;
+	float: left;
+	padding-right: 10px;
+}
+
+ul{
+	list-style-type: none;
+	float: center;
+	text-transform: uppercase;
+	padding-left: 0px;
+}
+
+li{
+	float: left;
+	display: inline;
+	padding: 20px;
+}
+
+#search{
+	width: 100px;
+	float: right;
+}
+
